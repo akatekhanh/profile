@@ -95,7 +95,10 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://atlas-data-team.github.io/blog/assets/images/khanh_imgs/aws/aws.png" /></div>  
+<div align="center">
+  <a href="https://atlas-data-team.github.io/blog/async-aws-architecture/">
+  <img src="https://atlas-data-team.github.io/blog/assets/images/khanh_imgs/aws/aws.png" />
+</div>  
   
 
 <br/>  
